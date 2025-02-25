@@ -1,6 +1,6 @@
 import Navegar from "./Componentes/Navegar/Navegar";
 import Principal from "./Componentes/Principal/Principal";
-import Fondo from "./imagenes/fondo.png";
+import Fondo from "./imagenes/Fondo.png";
 
 function App() {  
   const imgFondo = {
