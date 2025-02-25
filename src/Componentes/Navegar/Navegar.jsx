@@ -1,5 +1,5 @@
 // esto es Navbar => menus y esas cosas
-import logo from '../../imagenes/logo.png';
+import logo from '../../imagenes/Logo.png';
 import { useState } from 'react';
 
 const enlace_nav= [
