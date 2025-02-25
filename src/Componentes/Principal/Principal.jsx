@@ -1,5 +1,5 @@
 import Person from "../../imagenes/Personaje.png"
-import logo from '../../imagenes/logo.png';
+import logo from '../../imagenes/Logo.png';
 // esto es el hero la parte princial xd
 
 const Principal = () => {
